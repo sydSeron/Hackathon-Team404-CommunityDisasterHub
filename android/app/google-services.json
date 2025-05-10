@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533683727453",
+    "project_id": "community-disaster-hub",
+    "storage_bucket": "community-disaster-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533683727453:android:2925f9297461960a8871b4",
+        "android_client_info": {
+          "package_name": "com.team404.community_disaster_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2q6AUQwBVymrcrJbaY8lC2kGGcaOVVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

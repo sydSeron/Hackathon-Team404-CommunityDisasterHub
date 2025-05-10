@@ -1,0 +1,2 @@
+C:/Users/Acer/StudioProjects/community_disaster_hub/android/app/.cxx/Debug/4kr1fw18/x86/CMakeFiles/edit_cache.dir
+C:/Users/Acer/StudioProjects/community_disaster_hub/android/app/.cxx/Debug/4kr1fw18/x86/CMakeFiles/rebuild_cache.dir
